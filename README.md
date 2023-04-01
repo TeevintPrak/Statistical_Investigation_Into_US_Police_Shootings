@@ -1,4 +1,4 @@
-# STAT 201 Group 31 Project: A Statistical Investigation Into Accountability and Racial-biases in US Police Shootings
+# STAT 201 Project: A Statistical Investigation Into Accountability and Racial-biases in US Police Shootings
 Contributers: Teevint Prak, Zahra Vink, Lotus Wei
 
 **Introduction** <br>
