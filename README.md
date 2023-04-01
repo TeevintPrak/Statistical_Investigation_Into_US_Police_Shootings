@@ -1,1 +1,14 @@
-# STAT-201-Group-Project
+# STAT 201 Group 31 Project: A Statistical Investigation Into Accountability and Racial-biases in US Police Shootings
+Contributers: Teevint Prak, Zahra Vink, Lotus Wei
+
+**Introduction** <br>
+Racial discrimination is a systemic issue frequently highlighted in the disparities of the treatment of different racial groups in the justice system. Data on US police shootings is critical to gain greater insight into the effect of racial biases on the probability of being shot by police officers. Recent police shooting data released from several sources show that black Americans are killed at a higher rate than white Americans(Washington Post, 2020)(Edward et al, 2019). Previous studies (Nix, J., Campbell, B. A., Byers, E. H. & Alpert, G. P. Criminol. Public Policy 16, 309–340 (2017)) have revealed that police shooting victims from a black racial background have approximately double the probability of being unarmed when killed compared to white shooting victims. The increased risk of black Americans being shot and the decreased risk of them being able to harm the officer in question supports the existence of police racial bias towards those from a black background.
+
+**Data** <br>
+Our analysis uses data(Nazir, 2020) on US police shootings(2015-2020) to gain greater insight into the effect of police surveillance on racial bias. The raw data was retrieved from the website Kaggle and tidied by Ahsen Nazir. The population of interest consists of all black American victims of US police shootings and we are using a randomly selected sample of 400 to conduct this investigation. Our response variable and point estimate is the proportion of black American police shooting victims in the US. We chose proportion as a location parameter and standard deviation as a scale parameter. Our explanatory variable is the presence of activated body cameras. The variables and parameters allow us to determine the effect of racial surveillance on the proportion of victims of a certain race and quantify the variability of our results.
+
+**Method** <br>
+We are conducting a hypothesis test to examine whether the proportion of black victims killed in US police shootings differs between the presence and absence of body cameras. Our null hypothesis is that the proportion of black US victims shot by police with body cameras is the same as that without body cameras; and the alternate hypothesis is that the two proportions are different.
+
+**Objective** <br>
+Through our analysis, we hope to gain a clearer understanding of the impact of police surveillance on their racial bias. If we reject our null hypothesis like we expect, we will have evidence to suggest a re-evaluation of the accountability of police officers hopefully resulting in changes in the regulatory guidelines and policies for American police departments. For example, departments could introduce mandatory body cameras and mics on every police officer during working hours and hire trustworthy individuals to review the footage and report any misconduct or perceived biases to relevant authorities.
